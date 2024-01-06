@@ -4,6 +4,5 @@
 Dockerfile
 .github
 .vscode
-.changeset
 .dockerignore
 .secrets
