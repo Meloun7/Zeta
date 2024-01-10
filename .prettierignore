@@ -1,6 +1,6 @@
 .yarn
 artifacts
 cache
-coverage*
+coverage
 gasReporterOutput.json
 node_modules
