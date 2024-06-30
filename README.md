@@ -2,7 +2,7 @@
 
 ZetaChain i a public, decentralized  blockchain and smart contract platform built for omnichain minteroperability.
 
-##  What's in thi s  repo?
+##  What's in thi s repo?
 
 * Utilities to interact   with ZetaChain's  contracts from  your dApp, scripts,  or  tests.
 * Interfaces to easily  develop omnichain contracts.
